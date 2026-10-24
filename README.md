@@ -12,7 +12,7 @@ Restaurantelb
 
 bash
 # Clonar
-git clone https://github.com/TU-USUARIO/TU-REPO.git
+git clone https://github.com/LbCapacitacion/restaurantelb/tree/main
 cd TU-REPO
 
 # Backend
